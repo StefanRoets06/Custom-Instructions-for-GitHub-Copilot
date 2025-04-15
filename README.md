@@ -1,9 +1,9 @@
 # GitHub Copilot Custom Instructions Repository
 
-![GitHub repo size](https://img.shields.io/github/repo-size/StefanRoets06/copilot-custom-instructions?color=blue&logo=github&style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/StefanRoets06/Custom-Instructions-for-GitHub-Copilot?color=blue&logo=github&style=for-the-badge)
 ![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen?style=for-the-badge)
-![License](https://img.shields.io/github/license/StefanRoets06/copilot-custom-instructions?style=for-the-badge)
-![Last Commit](https://img.shields.io/github/last-commit/StefanRoets06/copilot-custom-instructions?color=purple&style=for-the-badge)
+![License](https://img.shields.io/github/license/StefanRoets06/Custom-Instructions-for-GitHub-Copilot?style=for-the-badge)
+![Last Commit](https://img.shields.io/github/last-commit/StefanRoets06/Custom-Instructions-for-GitHub-Copilot?color=purple&style=for-the-badge)
 
 This repository houses template instructions to help developers optimize their use of GitHub Copilot. The templates are designed to provide clear and organized guidance for Copilot to generate relevant and high-quality suggestions for your coding projects.
 
@@ -27,7 +27,7 @@ The goal of this repository is to:
 ## 🛠️ How to Use
 1. Clone this repository to your local environment:
    ```bash
-   git clone https://github.com/StefanRoets06/copilot-custom-instructions.git
+   git clone https://github.com/StefanRoets06/Custom-Instructions-for-GitHub-Copilot.git
    ```
 2. Open `custom-instructions.md`.
 3. Fill out the template with your project-specific details:
@@ -44,8 +44,8 @@ Contributions are welcome! If you'd like to suggest improvements or add new temp
 2. Create a new branch for your changes.
 3. Submit a pull request with a detailed description.
 
-![GitHub Forks](https://img.shields.io/github/forks/StefanRoets06/copilot-custom-instructions?logo=fork&style=social)
-![GitHub Stars](https://img.shields.io/github/stars/StefanRoets06/copilot-custom-instructions?style=social)
+![GitHub Forks](https://img.shields.io/github/forks/StefanRoets06/Custom-Instructions-for-GitHub-Copilot?logo=fork&style=social)
+![GitHub Stars](https://img.shields.io/github/stars/StefanRoets06/Custom-Instructions-for-GitHub-Copilot?style=social)
 
 ---
 
