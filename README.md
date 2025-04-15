@@ -5,14 +5,14 @@
 ![License](https://img.shields.io/github/license/StefanRoets06/Custom-Instructions-for-GitHub-Copilot?style=for-the-badge)
 ![Last Commit](https://img.shields.io/github/last-commit/StefanRoets06/Custom-Instructions-for-GitHub-Copilot?color=purple&style=for-the-badge)
 
-This repository houses template instructions to help developers optimize their use of GitHub Copilot. The templates are designed to provide clear and organized guidance for Copilot to generate relevant and high-quality suggestions for your coding projects.
+This repository houses template instructions to help developers optimize their use of GitHub Copilot. The templates are designed to provide clear and organized guidance for Copilot to generate relevant and high-quality suggestions for your coding projects. These instructions are especially tailored to work best in **Agent Mode** for GitHub Copilot, enabling a more contextualized and dynamic interaction experience.
 
 ---
 
 ## 🌟 Overview
 The repository includes:
 - **`custom-instructions.md`**: A comprehensive template for developers to define project context, coding preferences, and task-specific details for GitHub Copilot.
-- Guidelines for creating effective instructions to enhance Copilot's performance.
+- Guidelines for creating effective instructions to enhance Copilot's performance, particularly in Agent Mode.
 
 ---
 
@@ -21,6 +21,7 @@ The goal of this repository is to:
 - Help developers create custom instructions for Copilot to improve its code suggestions.
 - Provide a reusable template that can be adapted for various projects and programming needs.
 - Serve as a resource to ensure that Copilot is aligned with project-specific requirements.
+- Leverage the enhanced capabilities of **Agent Mode** for a more interactive and intelligent Copilot experience.
 
 ---
 
@@ -34,7 +35,7 @@ The goal of this repository is to:
    - Define the project overview.
    - Specify your coding preferences.
    - Add task-specific instructions, examples, and references.
-4. Save the file and refer to it when using GitHub Copilot for your projects.
+4. Save the file and refer to it when using GitHub Copilot in **Agent Mode** for optimal results.
 
 ---
 
